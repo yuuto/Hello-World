@@ -1,5 +1,5 @@
 #########
-test
+test/test2
 #########
 hogehogefugafuga
 test
